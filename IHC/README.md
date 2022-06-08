@@ -3,23 +3,26 @@
 ## • Site Escola Máximus (https://escolamaximus.com.br/) •
 ### --> ACERTOS
 
+## 1. Visibilidade do Status do Sistema (Nielsen)
+
 <img src = "https://github.com/bruno-pisciotta281/bertoti/blob/main/IHC/images/Capturar.PNG">
 
-## 1. Visibilidade do Status do Sistema (Nielsen)
 <p> "Em ambientes digitais a dependência da visão é ainda maior e por conta disso é essencial que a interface forneça ao usuário o status em relação à sua posição dentro do sistema, ou seja, informar o usuário sobre qual ambiente ele estava, em qual ele está e para quais outros ambientes ele poderá se dirigir a partir de sua localização." Como é possível perceber o site apresenta boa visibilidade quanto ao status do sistema neste carousel. </p>
 
 ## --------------------------------------------------------------------------------------------------------
 
+## 4. Consistência e Padronização (Nielsen)
+
 <img src = "https://github.com/bruno-pisciotta281/bertoti/blob/main/IHC/images/Capturar2.PNG">
 
-## 4. Consistência e Padronização (Nielsen)
 <p> "Manter consistência entre as telas de uma aplicação é essencial para que não seja necessário o entendimento de vários padrões e formas de interações diferentes para cada tela, uma vez aprendido será algo replicável em outros contextos." A exemplo da página 'SOBRE' que mantém a mesma padronização de outras páginas. </p>
 
 ## --------------------------------------------------------------------------------------------------------
 
+## Diretriz 3.1 - Legível (WCAG)
+
 <img src = "https://github.com/bruno-pisciotta281/bertoti/blob/main/IHC/images/Capturar3.PNG">
 
-## Diretriz 3.1 - Legível (WCAG)
 <p> "Torne o conteúdo do texto legível e compreensível." A leitura é fácil e compreensível. </p>
 
 ## --------------------------------------------------------------------------------------------------------
@@ -40,4 +43,10 @@
 
 ## Diretriz 2.4 - Navegável
 
-<p> "Forneça maneiras de ajudar os usuários a navegar, encontrar conteúdo e determinar onde eles estão" O site não possui uam navegação de fácil entendimento. </p>
+<p> "Forneça maneiras de ajudar os usuários a navegar, encontrar conteúdo e determinar onde eles estão" O site não possui uma navegação de fácil entendimento. </p>
+
+
+## --------------------------------------------------------------------------------------------------------
+
+
+## • Site Colégio Adventista (https://saojosedoscampos.educacaoadventista.org.br/) •

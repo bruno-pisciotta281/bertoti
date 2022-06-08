@@ -41,7 +41,7 @@
 
 ## --------------------------------------------------------------------------------------------------------
 
-## Diretriz 2.4 - Navegável
+## Diretriz 2.4 - Navegável (WCAG)
 
 <p> "Forneça maneiras de ajudar os usuários a navegar, encontrar conteúdo e determinar onde eles estão" O site não possui uma navegação de fácil entendimento. </p>
 
@@ -50,3 +50,38 @@
 
 
 ## • Site Colégio Adventista (https://saojosedoscampos.educacaoadventista.org.br/) •
+
+### --> ACERTOS
+
+## Diretriz 1.4 - Distinguível (WCAG)
+
+<img src = "https://github.com/bruno-pisciotta281/bertoti/blob/main/IHC/images/Capturar5.PNG">
+
+
+<p>"Torne mais fácil para os usuários ver e ouvir o conteúdo, incluindo a separação do primeiro plano do plano de fundo". O site utiliza distinção de cores entre planos.</p>
+
+## --------------------------------------------------------------------------------------------------------
+
+## Diretriz 2.4 - Navegável (WCAG)
+
+<img src = "https://github.com/bruno-pisciotta281/bertoti/blob/main/IHC/images/Capturar6.PNG">
+
+<p>"Forneça maneiras de ajudar os usuários a navegar, encontrar conteúdo e determinar onde eles estão". O site possui controles para guiar o usuário</p>
+
+## --------------------------------------------------------------------------------------------------------
+
+### --> ERROS
+
+## 8: Design estético e minimalista (Nielsen)
+
+<img src = "https://github.com/bruno-pisciotta281/bertoti/blob/main/IHC/images/Capturar7.PNG">
+
+"As interfaces não devem conter informações irrelevantes ou raramente necessárias. Cada unidade extra de informação em uma interface compete com as unidades de informação relevantes e diminui sua visibilidade relativa". O site possui um design bem carregado e não minimalista, tornando a visualização cansativa. 
+
+## --------------------------------------------------------------------------------------------------------
+
+### --> FONTES
+
+(https://www.nngroup.com/articles/ten-usability-heuristics/)
+<br>
+(https://www.w3.org/WAI/WCAG21/quickref/#principle1))

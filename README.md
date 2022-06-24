@@ -1,5 +1,6 @@
 <h1 align="center">
-&#128142 IHC bruno Pisciotta &#128142
+Bruno Pisciotta
+IHC - Interação Humano Computador
 </h1>
 
 <p align="center"><img src="https://github.com/bruno-pisciotta281/Index.html/blob/master/img/LOGO.PNG" width="200px;"/></p>
